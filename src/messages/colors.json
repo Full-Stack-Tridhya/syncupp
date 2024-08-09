@@ -1,0 +1,13 @@
+{
+  "colors": {
+    "red": "#FF0000",
+    "green": "#00FF00",
+    "blue": "#0000FF",
+    "purple": "#800080",
+    "orange": "#FFA500",
+    "pink": "#FFC0CB",
+    "brown": "#A52A2A",
+    "black": "#000000",
+    "gray": "#808080"
+  }
+}

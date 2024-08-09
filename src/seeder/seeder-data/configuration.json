@@ -1,0 +1,50 @@
+[
+  {
+    "referral": {
+      "successful_referral_point": 500,
+      "redeem_required_point": 2000,
+      "commission_percentage": 30
+    }
+  },
+  {
+    "competition": {
+      "successful_task_competition": 20,
+      "successful_login": 10
+    }
+  },
+  {
+    "cron_job": {
+      "invoice_overdue": "0 0 * * *",
+      "activity_overdue": "0 0 * * *",
+      "activity_dueDate": "0 0 * * *"
+    }
+  },
+  {
+    "payment": {
+      "subscription_halt_days": 15,
+      "free_trial": 7
+    }
+  },
+  {
+    "coupon": {
+      "reedem_coupon": 50
+    }
+  },
+  {
+    "multer": {
+      "size": 200
+    }
+  },
+  {
+    "chat": {
+      "file_size": 200
+    }
+  },
+  {
+    "urls": {
+      "privacy_policy": "https://www.syncupp.com/privacy-policy",
+      "facebook": "https://www.facebook.com/letssyncupp",
+      "instagram": "https://www.instagram.com/syncuppai/"
+    }
+  }
+]

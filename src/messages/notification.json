@@ -1,0 +1,119 @@
+{
+  "activity": {
+    "createCallMeeting": {
+      "assignByMessage": "Hey ${agency_name}!${assigned_to_name} just created a call meeting titled '${title}' on ${meeting_date} from ${meeting_start_time} to ${meeting_end_time}. Check the agenda.",
+      "attendeesMessage": "You have a call meeting titled '${title}' on ${meeting_date} at ${meeting_start_time}. Check the agenda. See you there!"
+    },
+    "activityUpdated": {
+      "attendeesMessage": "Updated: The call meeting titled '${title}' on ${meeting_date} at ${meeting_start_time}. Check the agenda. See you there!",
+      "assignByMessage": "Updated: Hi ${agency_name}!${assigned_to_name}  just updated a call meeting titled '${title}' on ${meeting_date} from ${meeting_start_time} to ${meeting_end_time}."
+    },
+    "activityCancelled": {
+      "assignByMessage": "Hi ${assigned_by_name}! The ${activity_type} titled '${title}' scheduled for ${due_date} at ${meeting_start_time} has been canceled. ",
+      "attendeesMessage": "The call meeting titled '${title}' scheduled for ${meeting_date} at ${meeting_start_time} has been canceled."
+    },
+    "activityCompleted": {
+      "assignByMessage": "The ${activity_type} '${title}' is completed by ${assigned_to_name}.",
+      "attendeesMessage": "The call meeting titled '${title}' is completed."
+    },
+
+    "activityDueDate": {
+      "assignToMessage": "Today is for call meeting '${title}'."
+    },
+    "meetingAlert": {
+      "alertMessage": "The meeting titled '${title}' will start in ${alert_time} ${alert_time_unit} ; please get ready."
+    }
+  },
+  "task": {
+    "createTask": {
+      "assignToMessage": "Hey ${assigned_to_name}! You're assigned to a task titled '${title}' due on ${due_date} before ${due_time} for project ${board_name}. Check the agenda. Be ready!"
+    },
+    "taskCompleted": {
+      "assignToMessage": "Hey ${assigned_to_name}! The task '${title}' assigned to you is completed for project ${board_name}. Great job!"
+    },
+
+    "taskUpdated": {
+      "assignToMessage": "Updated: Hey ${assigned_to_name}! You're assigned to a task titled '${title}' due on ${due_date} before ${due_time} for project ${board_name}. Be ready!"
+    },
+
+    "taskStatusUpdate": {
+      "assignToMessage": "Hey ${assigned_to_name}! The task '${title}' assigned to you has changed status to '${status_name}' for the project ${board_name}."
+    },
+    "taskDeleted": {
+      "assignToMessage": "Task '${title}' has been deleted for project ${board_name}."
+    },
+    "taskOverdue": {
+      "assignToMessage": "Task '${title}' has been overdue.",
+      "assignByMessage": "Task '${title}' has been overdue."
+    },
+    "taskDueDate": {
+      "assignToMessage": "Today is the due date for Task '${title}'."
+    },
+
+    "leaveTask": "Hi ${assign_by_name}! ${left_user} left the task '${title}'."
+  },
+  "agreement": {
+    "create": "Hi ${receiver_name}! An agreement titled '${title}' has been created by ${sender_name}. Please review the agreement content and provide your consent.",
+    "statusUpdate": "Agreed: Hi ${sender_name}! An agreement titled '${title}' has been agreed by ${receiver_name}."
+  },
+  "invoice": {
+    "create": "Hi ${receiver_name}! An invoice with number ${invoice_number} has been created by ${sender_name}.",
+    "invoiceDue": "Hi ${receiver_name}! This is a reminder that invoice number ${invoice_number} from ${sender_name} is due for payment. The due date is approaching, and we request you to process the payment at your earliest convenience.",
+    "invoicePaid": "Hi ${receiver_name}! Invoice number ${invoice_number} from ${sender_name} has been paid. Thank you for your prompt payment.",
+    "invoiceOverdueAgency": "Hi ${receiver_name}! Invoice number ${invoice_number} is overdue."
+  },
+
+  "general": {
+    "clientTeamMemberAdded": "New team member request received from client ${client_name}.",
+    "clientTeamJoined": "Team member ${member_name} joined.",
+    "clientJoined": "Client ${client_name} joined.",
+    "clientTeamPaymentDone": "Team member ${member_name} payment done.",
+    "clientTeamPaymentFail": "Team member ${member_name} payment fail.",
+    "memberDeletedClient": "Team member ${member_name} has been deleted by ${client_name}.",
+    "memberDeletedAgency": "Team member ${member_name} has been deleted by ${agency_name}.",
+    "memberJoined": "${member_name} has joined to the ${workspace_name}.",
+    "memberAddedByClient": "${client_name} has added new member to the ${workspace_name}."
+  },
+
+  "admin": {
+    "clientSeatRemoved": "Client ${removed_user} seat removed by  ${agency_name}",
+    "teamClientSeatRemoved": "Team client member ${removed_user} seat removed by  ${agency_name}",
+    "teamAgencySeatRemoved": "Member ${removed_user} seat removed by  ${agency_name}",
+    "agencyCreated": "New user is registered and created ${workspace_name}.",
+    "clientTeamPaymentFail": "Team member ${member_name} payment fail.",
+    "memberPayment": "Team member ${user_name} payment ${currency} ${amount}  done by ${agency_name}.",
+    "agencyPayment": "Agency ${user_name} payment ${currency} ${amount} done.",
+    "clientPayment": "Client ${user_name} payment ${currency} ${amount} done by ${agency_name}.",
+    "newInquiry": "New inquiry received.",
+    "newTicket": "New ticket received."
+  },
+
+  "chat": {
+    "addedToGroup": "You are added to the {{group_name}} group by the {{creator_name}}.",
+    "newMessage": "{{sender_name}} has sent you a new message.",
+    "newGroupMessage": "You received new message from {{group_name}}.",
+    "newMessageEmail": "You received new message from {{user_name}}."
+  },
+  "payment": {
+    "nextSubscriptionStart": "Your next subscription will start in {{no_days}} days",
+    "memberPayment": "Team member ${user_name} payment ${currency} ${amount}  done by you.",
+    "agencyPayment": "Your payment ${currency} ${amount} done.",
+    "clientPayment": "Client ${user_name} payment ${currency} ${amount} done by you.",
+    "agencyPackageExpired": "Your pack has been expired please renew it.",
+    "trialPeriodEnd": "Your free trial period will end in {{no_days}} day."
+  },
+  "referral": {
+    "signUp": "${email} joined using your referral code.",
+    "login": "${points} points added to your account for your first daily login.",
+    "taskDeduct": "${points} points deducted of Task ${task_name}.",
+    "taskAdded": "${points} points added of Task ${task_name}."
+  },
+  "board": {
+    "boardCreated": "New board named ${project_name} created by ${created_by_name}. You are added as a member.",
+    "boardUpdated": "You are added in project ${project_name} by ${added_by}.",
+    "memberRemoved": "You are removed from project ${project_name} by ${added_by}.",
+    "boardDeleted": "Board ${project_name} has deleted.",
+    "boardArchived": "Board ${project_name} has archived.",
+    "boardUnArchived": "Board ${project_name} has un-archived."
+  }
+}

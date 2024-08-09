@@ -1,0 +1,2716 @@
+[
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97bd" },
+    "callingCodes": ["93"],
+    "latlng": [{ "$numberInt": "33" }, { "$numberInt": "65" }],
+    "timezones": ["UTC+04:30"],
+    "flag": "flags/AFG",
+    "name": "Afghanistan",
+    "alpha2Code": "AF",
+    "alpha3Code": "AFG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97be" },
+    "callingCodes": ["358"],
+    "latlng": [{ "$numberDouble": "60.116667" }, { "$numberDouble": "19.9" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/ALA",
+    "name": "Åland Islands",
+    "alpha2Code": "AX",
+    "alpha3Code": "ALA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c1" },
+    "callingCodes": ["1684"],
+    "latlng": [{ "$numberDouble": "-14.33333333" }, { "$numberInt": "-170" }],
+    "timezones": ["UTC-11:00"],
+    "flag": "flags/ASM",
+    "name": "American Samoa",
+    "alpha2Code": "AS",
+    "alpha3Code": "ASM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97bf" },
+    "callingCodes": ["355"],
+    "latlng": [{ "$numberInt": "41" }, { "$numberInt": "20" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/ALB",
+    "name": "Albania",
+    "alpha2Code": "AL",
+    "alpha3Code": "ALB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c0" },
+    "callingCodes": ["213"],
+    "latlng": [{ "$numberInt": "28" }, { "$numberInt": "3" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/DZA",
+    "name": "Algeria",
+    "alpha2Code": "DZ",
+    "alpha3Code": "DZA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c3" },
+    "callingCodes": ["244"],
+    "latlng": [{ "$numberDouble": "-12.5" }, { "$numberDouble": "18.5" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/AGO",
+    "name": "Angola",
+    "alpha2Code": "AO",
+    "alpha3Code": "AGO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c2" },
+    "callingCodes": ["376"],
+    "latlng": [{ "$numberDouble": "42.5" }, { "$numberDouble": "1.5" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/AND",
+    "name": "Andorra",
+    "alpha2Code": "AD",
+    "alpha3Code": "AND"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c7" },
+    "callingCodes": ["54"],
+    "latlng": [{ "$numberInt": "-34" }, { "$numberInt": "-64" }],
+    "timezones": ["UTC-03:00"],
+    "flag": "flags/ARG",
+    "name": "Argentina",
+    "alpha2Code": "AR",
+    "alpha3Code": "ARG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c8" },
+    "callingCodes": ["374"],
+    "latlng": [{ "$numberInt": "40" }, { "$numberInt": "45" }],
+    "timezones": ["UTC+04:00"],
+    "flag": "flags/ARM",
+    "name": "Armenia",
+    "alpha2Code": "AM",
+    "alpha3Code": "ARM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c5" },
+    "callingCodes": ["672"],
+    "latlng": [{ "$numberDouble": "-74.65" }, { "$numberDouble": "4.48" }],
+    "timezones": [
+      "UTC-03:00",
+      "UTC+03:00",
+      "UTC+05:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "flag": "flags/ATA",
+    "name": "Antarctica",
+    "alpha2Code": "AQ",
+    "alpha3Code": "ATA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c4" },
+    "callingCodes": ["1264"],
+    "latlng": [
+      { "$numberDouble": "18.25" },
+      { "$numberDouble": "-63.16666666" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/AIA",
+    "name": "Anguilla",
+    "alpha2Code": "AI",
+    "alpha3Code": "AIA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c6" },
+    "callingCodes": ["1268"],
+    "latlng": [{ "$numberDouble": "17.05" }, { "$numberDouble": "-61.8" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/ATG",
+    "name": "Antigua and Barbuda",
+    "alpha2Code": "AG",
+    "alpha3Code": "ATG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97cb" },
+    "callingCodes": ["43"],
+    "latlng": [
+      { "$numberDouble": "47.33333333" },
+      { "$numberDouble": "13.33333333" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/AUT",
+    "name": "Austria",
+    "alpha2Code": "AT",
+    "alpha3Code": "AUT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97cd" },
+    "callingCodes": ["1242"],
+    "latlng": [{ "$numberDouble": "24.25" }, { "$numberInt": "-76" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/BHS",
+    "name": "Bahamas",
+    "alpha2Code": "BS",
+    "alpha3Code": "BHS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97c9" },
+    "callingCodes": ["297"],
+    "latlng": [
+      { "$numberDouble": "12.5" },
+      { "$numberDouble": "-69.96666666" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/ABW",
+    "name": "Aruba",
+    "alpha2Code": "AW",
+    "alpha3Code": "ABW"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97cc" },
+    "callingCodes": ["994"],
+    "latlng": [{ "$numberDouble": "40.5" }, { "$numberDouble": "47.5" }],
+    "timezones": ["UTC+04:00"],
+    "flag": "flags/AZE",
+    "name": "Azerbaijan",
+    "alpha2Code": "AZ",
+    "alpha3Code": "AZE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ca" },
+    "callingCodes": ["61"],
+    "latlng": [{ "$numberInt": "-27" }, { "$numberInt": "133" }],
+    "timezones": [
+      "UTC+05:00",
+      "UTC+06:30",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:30",
+      "UTC+10:00",
+      "UTC+10:30",
+      "UTC+11:30"
+    ],
+    "flag": "flags/AUS",
+    "name": "Australia",
+    "alpha2Code": "AU",
+    "alpha3Code": "AUS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ce" },
+    "callingCodes": ["973"],
+    "latlng": [{ "$numberInt": "26" }, { "$numberDouble": "50.55" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/BHR",
+    "name": "Bahrain",
+    "alpha2Code": "BH",
+    "alpha3Code": "BHR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97cf" },
+    "callingCodes": ["880"],
+    "latlng": [{ "$numberInt": "24" }, { "$numberInt": "90" }],
+    "timezones": ["UTC+06:00"],
+    "flag": "flags/BGD",
+    "name": "Bangladesh",
+    "alpha2Code": "BD",
+    "alpha3Code": "BGD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d2" },
+    "callingCodes": ["32"],
+    "latlng": [{ "$numberDouble": "50.83333333" }, { "$numberInt": "4" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/BEL",
+    "name": "Belgium",
+    "alpha2Code": "BE",
+    "alpha3Code": "BEL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d6" },
+    "callingCodes": ["975"],
+    "latlng": [{ "$numberDouble": "27.5" }, { "$numberDouble": "90.5" }],
+    "timezones": ["UTC+06:00"],
+    "flag": "flags/BTN",
+    "name": "Bhutan",
+    "alpha2Code": "BT",
+    "alpha3Code": "BTN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d4" },
+    "callingCodes": ["229"],
+    "latlng": [{ "$numberDouble": "9.5" }, { "$numberDouble": "2.25" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/BEN",
+    "name": "Benin",
+    "alpha2Code": "BJ",
+    "alpha3Code": "BEN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d0" },
+    "callingCodes": ["1246"],
+    "latlng": [
+      { "$numberDouble": "13.16666666" },
+      { "$numberDouble": "-59.53333333" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/BRB",
+    "name": "Barbados",
+    "alpha2Code": "BB",
+    "alpha3Code": "BRB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d7" },
+    "callingCodes": ["591"],
+    "latlng": [{ "$numberInt": "-17" }, { "$numberInt": "-65" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/BOL",
+    "name": "Bolivia (Plurinational State of)",
+    "alpha2Code": "BO",
+    "alpha3Code": "BOL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d5" },
+    "callingCodes": ["1441"],
+    "latlng": [
+      { "$numberDouble": "32.33333333" },
+      { "$numberDouble": "-64.75" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/BMU",
+    "name": "Bermuda",
+    "alpha2Code": "BM",
+    "alpha3Code": "BMU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d3" },
+    "callingCodes": ["501"],
+    "latlng": [{ "$numberDouble": "17.25" }, { "$numberDouble": "-88.75" }],
+    "timezones": ["UTC-06:00"],
+    "flag": "flags/BLZ",
+    "name": "Belize",
+    "alpha2Code": "BZ",
+    "alpha3Code": "BLZ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d1" },
+    "callingCodes": ["375"],
+    "latlng": [{ "$numberInt": "53" }, { "$numberInt": "28" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/BLR",
+    "name": "Belarus",
+    "alpha2Code": "BY",
+    "alpha3Code": "BLR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d8" },
+    "callingCodes": ["5997"],
+    "latlng": [{ "$numberDouble": "12.15" }, { "$numberDouble": "-68.266667" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/BES",
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "alpha2Code": "BQ",
+    "alpha3Code": "BES"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97dc" },
+    "callingCodes": ["55"],
+    "latlng": [{ "$numberInt": "-10" }, { "$numberInt": "-55" }],
+    "timezones": ["UTC-05:00", "UTC-04:00", "UTC-03:00", "UTC-02:00"],
+    "flag": "flags/BRA",
+    "name": "Brazil",
+    "alpha2Code": "BR",
+    "alpha3Code": "BRA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97dd" },
+    "callingCodes": ["246"],
+    "latlng": [{ "$numberInt": "-6" }, { "$numberDouble": "71.5" }],
+    "timezones": ["UTC+06:00"],
+    "flag": "flags/IOT",
+    "name": "British Indian Ocean Territory",
+    "alpha2Code": "IO",
+    "alpha3Code": "IOT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e0" },
+    "callingCodes": ["1 340"],
+    "latlng": [{ "$numberDouble": "18.34" }, { "$numberDouble": "-64.93" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/VIR",
+    "name": "Virgin Islands (U.S.)",
+    "alpha2Code": "VI",
+    "alpha3Code": "VIR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97d9" },
+    "callingCodes": ["387"],
+    "latlng": [{ "$numberInt": "44" }, { "$numberInt": "18" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/BIH",
+    "name": "Bosnia and Herzegovina",
+    "alpha2Code": "BA",
+    "alpha3Code": "BIH"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97df" },
+    "callingCodes": ["1284"],
+    "latlng": [
+      { "$numberDouble": "18.431383" },
+      { "$numberDouble": "-64.62305" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/VGB",
+    "name": "Virgin Islands (British)",
+    "alpha2Code": "VG",
+    "alpha3Code": "VGB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97de" },
+    "callingCodes": [""],
+    "latlng": [],
+    "timezones": ["UTC-11:00", "UTC-10:00", "UTC+12:00"],
+    "flag": "flags/UMI",
+    "name": "United States Minor Outlying Islands",
+    "alpha2Code": "UM",
+    "alpha3Code": "UMI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97db" },
+    "callingCodes": [""],
+    "latlng": [{ "$numberDouble": "-54.43333333" }, { "$numberDouble": "3.4" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/BVT",
+    "name": "Bouvet Island",
+    "alpha2Code": "BV",
+    "alpha3Code": "BVT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97da" },
+    "callingCodes": ["267"],
+    "latlng": [{ "$numberInt": "-22" }, { "$numberInt": "24" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/BWA",
+    "name": "Botswana",
+    "alpha2Code": "BW",
+    "alpha3Code": "BWA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e3" },
+    "callingCodes": ["226"],
+    "latlng": [{ "$numberInt": "13" }, { "$numberInt": "-2" }],
+    "timezones": ["UTC"],
+    "flag": "flags/BFA",
+    "name": "Burkina Faso",
+    "alpha2Code": "BF",
+    "alpha3Code": "BFA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e2" },
+    "callingCodes": ["359"],
+    "latlng": [{ "$numberInt": "43" }, { "$numberInt": "25" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/BGR",
+    "name": "Bulgaria",
+    "alpha2Code": "BG",
+    "alpha3Code": "BGR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e1" },
+    "callingCodes": ["673"],
+    "latlng": [{ "$numberDouble": "4.5" }, { "$numberDouble": "114.66666666" }],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/BRN",
+    "name": "Brunei Darussalam",
+    "alpha2Code": "BN",
+    "alpha3Code": "BRN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e5" },
+    "callingCodes": ["855"],
+    "latlng": [{ "$numberInt": "13" }, { "$numberInt": "105" }],
+    "timezones": ["UTC+07:00"],
+    "flag": "flags/KHM",
+    "name": "Cambodia",
+    "alpha2Code": "KH",
+    "alpha3Code": "KHM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e7" },
+    "callingCodes": ["1"],
+    "latlng": [{ "$numberInt": "60" }, { "$numberInt": "-95" }],
+    "timezones": [
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:30"
+    ],
+    "flag": "flags/CAN",
+    "name": "Canada",
+    "alpha2Code": "CA",
+    "alpha3Code": "CAN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e4" },
+    "callingCodes": ["257"],
+    "latlng": [{ "$numberDouble": "-3.5" }, { "$numberInt": "30" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/BDI",
+    "name": "Burundi",
+    "alpha2Code": "BI",
+    "alpha3Code": "BDI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e8" },
+    "callingCodes": ["238"],
+    "latlng": [{ "$numberInt": "16" }, { "$numberInt": "-24" }],
+    "timezones": ["UTC-01:00"],
+    "flag": "flags/CPV",
+    "name": "Cabo Verde",
+    "alpha2Code": "CV",
+    "alpha3Code": "CPV"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e6" },
+    "callingCodes": ["237"],
+    "latlng": [{ "$numberInt": "6" }, { "$numberInt": "12" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/CMR",
+    "name": "Cameroon",
+    "alpha2Code": "CM",
+    "alpha3Code": "CMR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97e9" },
+    "callingCodes": ["1345"],
+    "latlng": [{ "$numberDouble": "19.5" }, { "$numberDouble": "-80.5" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/CYM",
+    "name": "Cayman Islands",
+    "alpha2Code": "KY",
+    "alpha3Code": "CYM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97eb" },
+    "callingCodes": ["235"],
+    "latlng": [{ "$numberInt": "15" }, { "$numberInt": "19" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/TCD",
+    "name": "Chad",
+    "alpha2Code": "TD",
+    "alpha3Code": "TCD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f1" },
+    "callingCodes": ["269"],
+    "latlng": [
+      { "$numberDouble": "-12.16666666" },
+      { "$numberDouble": "44.25" }
+    ],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/COM",
+    "name": "Comoros",
+    "alpha2Code": "KM",
+    "alpha3Code": "COM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ef" },
+    "callingCodes": ["61"],
+    "latlng": [
+      { "$numberDouble": "-12.5" },
+      { "$numberDouble": "96.83333333" }
+    ],
+    "timezones": ["UTC+06:30"],
+    "flag": "flags/CCK",
+    "name": "Cocos (Keeling) Islands",
+    "alpha2Code": "CC",
+    "alpha3Code": "CCK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f4" },
+    "callingCodes": ["682"],
+    "latlng": [
+      { "$numberDouble": "-21.23333333" },
+      { "$numberDouble": "-159.76666666" }
+    ],
+    "timezones": ["UTC-10:00"],
+    "flag": "flags/COK",
+    "name": "Cook Islands",
+    "alpha2Code": "CK",
+    "alpha3Code": "COK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ed" },
+    "callingCodes": ["86"],
+    "latlng": [{ "$numberInt": "35" }, { "$numberInt": "105" }],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/CHN",
+    "name": "China",
+    "alpha2Code": "CN",
+    "alpha3Code": "CHN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f2" },
+    "callingCodes": ["242"],
+    "latlng": [{ "$numberInt": "-1" }, { "$numberInt": "15" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/COG",
+    "name": "Congo",
+    "alpha2Code": "CG",
+    "alpha3Code": "COG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f3" },
+    "callingCodes": ["243"],
+    "latlng": [{ "$numberInt": "0" }, { "$numberInt": "25" }],
+    "timezones": ["UTC+01:00", "UTC+02:00"],
+    "flag": "flags/COD",
+    "name": "Congo (Democratic Republic of the)",
+    "alpha2Code": "CD",
+    "alpha3Code": "COD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ee" },
+    "callingCodes": ["61"],
+    "latlng": [
+      { "$numberDouble": "-10.5" },
+      { "$numberDouble": "105.66666666" }
+    ],
+    "timezones": ["UTC+07:00"],
+    "flag": "flags/CXR",
+    "name": "Christmas Island",
+    "alpha2Code": "CX",
+    "alpha3Code": "CXR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ec" },
+    "callingCodes": ["56"],
+    "latlng": [{ "$numberInt": "-30" }, { "$numberInt": "-71" }],
+    "timezones": ["UTC-06:00", "UTC-04:00"],
+    "flag": "flags/CHL",
+    "name": "Chile",
+    "alpha2Code": "CL",
+    "alpha3Code": "CHL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ea" },
+    "callingCodes": ["236"],
+    "latlng": [{ "$numberInt": "7" }, { "$numberInt": "21" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/CAF",
+    "name": "Central African Republic",
+    "alpha2Code": "CF",
+    "alpha3Code": "CAF"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f0" },
+    "callingCodes": ["57"],
+    "latlng": [{ "$numberInt": "4" }, { "$numberInt": "-72" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/COL",
+    "name": "Colombia",
+    "alpha2Code": "CO",
+    "alpha3Code": "COL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97fd" },
+    "callingCodes": ["1767"],
+    "latlng": [
+      { "$numberDouble": "15.41666666" },
+      { "$numberDouble": "-61.33333333" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/DMA",
+    "name": "Dominica",
+    "alpha2Code": "DM",
+    "alpha3Code": "DMA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f5" },
+    "callingCodes": ["506"],
+    "latlng": [{ "$numberInt": "10" }, { "$numberInt": "-84" }],
+    "timezones": ["UTC-06:00"],
+    "flag": "flags/CRI",
+    "name": "Costa Rica",
+    "alpha2Code": "CR",
+    "alpha3Code": "CRI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97fb" },
+    "callingCodes": ["45"],
+    "latlng": [{ "$numberInt": "56" }, { "$numberInt": "10" }],
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC", "UTC+01:00"],
+    "flag": "flags/DNK",
+    "name": "Denmark",
+    "alpha2Code": "DK",
+    "alpha3Code": "DNK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97fa" },
+    "callingCodes": ["420"],
+    "latlng": [{ "$numberDouble": "49.75" }, { "$numberDouble": "15.5" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/CZE",
+    "name": "Czech Republic",
+    "alpha2Code": "CZ",
+    "alpha3Code": "CZE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f6" },
+    "callingCodes": ["385"],
+    "latlng": [{ "$numberDouble": "45.16666666" }, { "$numberDouble": "15.5" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/HRV",
+    "name": "Croatia",
+    "alpha2Code": "HR",
+    "alpha3Code": "HRV"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97fc" },
+    "callingCodes": ["253"],
+    "latlng": [{ "$numberDouble": "11.5" }, { "$numberInt": "43" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/DJI",
+    "name": "Djibouti",
+    "alpha2Code": "DJ",
+    "alpha3Code": "DJI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97ff" },
+    "callingCodes": ["593"],
+    "latlng": [{ "$numberInt": "-2" }, { "$numberDouble": "-77.5" }],
+    "timezones": ["UTC-06:00", "UTC-05:00"],
+    "flag": "flags/ECU",
+    "name": "Ecuador",
+    "alpha2Code": "EC",
+    "alpha3Code": "ECU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97fe" },
+    "callingCodes": ["1809", "1829", "1849"],
+    "latlng": [{ "$numberInt": "19" }, { "$numberDouble": "-70.66666666" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/DOM",
+    "name": "Dominican Republic",
+    "alpha2Code": "DO",
+    "alpha3Code": "DOM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f7" },
+    "callingCodes": ["53"],
+    "latlng": [{ "$numberDouble": "21.5" }, { "$numberInt": "-80" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/CUB",
+    "name": "Cuba",
+    "alpha2Code": "CU",
+    "alpha3Code": "CUB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f9" },
+    "callingCodes": ["357"],
+    "latlng": [{ "$numberInt": "35" }, { "$numberInt": "33" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/CYP",
+    "name": "Cyprus",
+    "alpha2Code": "CY",
+    "alpha3Code": "CYP"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e97f8" },
+    "callingCodes": ["599"],
+    "latlng": [
+      { "$numberDouble": "12.116667" },
+      { "$numberDouble": "-68.933333" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/CUW",
+    "name": "Curaçao",
+    "alpha2Code": "CW",
+    "alpha3Code": "CUW"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9805" },
+    "callingCodes": ["251"],
+    "latlng": [{ "$numberInt": "8" }, { "$numberInt": "38" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/ETH",
+    "name": "Ethiopia",
+    "alpha2Code": "ET",
+    "alpha3Code": "ETH"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9800" },
+    "callingCodes": ["20"],
+    "latlng": [{ "$numberInt": "27" }, { "$numberInt": "30" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/EGY",
+    "name": "Egypt",
+    "alpha2Code": "EG",
+    "alpha3Code": "EGY"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9809" },
+    "callingCodes": ["358"],
+    "latlng": [{ "$numberInt": "64" }, { "$numberInt": "26" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/FIN",
+    "name": "Finland",
+    "alpha2Code": "FI",
+    "alpha3Code": "FIN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9806" },
+    "callingCodes": ["500"],
+    "latlng": [{ "$numberDouble": "-51.75" }, { "$numberInt": "-59" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/FLK",
+    "name": "Falkland Islands (Malvinas)",
+    "alpha2Code": "FK",
+    "alpha3Code": "FLK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9808" },
+    "callingCodes": ["679"],
+    "latlng": [{ "$numberInt": "-18" }, { "$numberInt": "175" }],
+    "timezones": ["UTC+12:00"],
+    "flag": "flags/FJI",
+    "name": "Fiji",
+    "alpha2Code": "FJ",
+    "alpha3Code": "FJI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e980a" },
+    "callingCodes": ["33"],
+    "latlng": [{ "$numberInt": "46" }, { "$numberInt": "2" }],
+    "timezones": [
+      "UTC-10:00",
+      "UTC-09:30",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC+01:00",
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+05:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "flag": "flags/FRA",
+    "name": "France",
+    "alpha2Code": "FR",
+    "alpha3Code": "FRA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9807" },
+    "callingCodes": ["298"],
+    "latlng": [{ "$numberInt": "62" }, { "$numberInt": "-7" }],
+    "timezones": ["UTC+00:00"],
+    "flag": "flags/FRO",
+    "name": "Faroe Islands",
+    "alpha2Code": "FO",
+    "alpha3Code": "FRO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e980c" },
+    "callingCodes": ["689"],
+    "latlng": [{ "$numberInt": "-15" }, { "$numberInt": "-140" }],
+    "timezones": ["UTC-10:00", "UTC-09:30", "UTC-09:00"],
+    "flag": "flags/PYF",
+    "name": "French Polynesia",
+    "alpha2Code": "PF",
+    "alpha3Code": "PYF"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9803" },
+    "callingCodes": ["291"],
+    "latlng": [{ "$numberInt": "15" }, { "$numberInt": "39" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/ERI",
+    "name": "Eritrea",
+    "alpha2Code": "ER",
+    "alpha3Code": "ERI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9804" },
+    "callingCodes": ["372"],
+    "latlng": [{ "$numberInt": "59" }, { "$numberInt": "26" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/EST",
+    "name": "Estonia",
+    "alpha2Code": "EE",
+    "alpha3Code": "EST"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9801" },
+    "callingCodes": ["503"],
+    "latlng": [
+      { "$numberDouble": "13.83333333" },
+      { "$numberDouble": "-88.91666666" }
+    ],
+    "timezones": ["UTC-06:00"],
+    "flag": "flags/SLV",
+    "name": "El Salvador",
+    "alpha2Code": "SV",
+    "alpha3Code": "SLV"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e980b" },
+    "callingCodes": ["594"],
+    "latlng": [{ "$numberInt": "4" }, { "$numberInt": "-53" }],
+    "timezones": ["UTC-03:00"],
+    "flag": "https://restcountries.eu/data/guf.svg",
+    "name": "French Guiana",
+    "alpha2Code": "GF",
+    "alpha3Code": "GUF"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9802" },
+    "callingCodes": ["240"],
+    "latlng": [{ "$numberInt": "2" }, { "$numberInt": "10" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/GNQ",
+    "name": "Equatorial Guinea",
+    "alpha2Code": "GQ",
+    "alpha3Code": "GNQ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9817" },
+    "callingCodes": ["590"],
+    "latlng": [{ "$numberDouble": "16.25" }, { "$numberDouble": "-61.583333" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/GLP",
+    "name": "Guadeloupe",
+    "alpha2Code": "GP",
+    "alpha3Code": "GLP"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e980f" },
+    "callingCodes": ["220"],
+    "latlng": [
+      { "$numberDouble": "13.46666666" },
+      { "$numberDouble": "-16.56666666" }
+    ],
+    "timezones": ["UTC+00:00"],
+    "flag": "flags/GMB",
+    "name": "Gambia",
+    "alpha2Code": "GM",
+    "alpha3Code": "GMB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9813" },
+    "callingCodes": ["350"],
+    "latlng": [
+      { "$numberDouble": "36.13333333" },
+      { "$numberDouble": "-5.35" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/GIB",
+    "name": "Gibraltar",
+    "alpha2Code": "GI",
+    "alpha3Code": "GIB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9816" },
+    "callingCodes": ["1473"],
+    "latlng": [
+      { "$numberDouble": "12.11666666" },
+      { "$numberDouble": "-61.66666666" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/GRD",
+    "name": "Grenada",
+    "alpha2Code": "GD",
+    "alpha3Code": "GRD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9815" },
+    "callingCodes": ["299"],
+    "latlng": [{ "$numberInt": "72" }, { "$numberInt": "-40" }],
+    "timezones": ["UTC-04:00", "UTC-03:00", "UTC-01:00", "UTC+00:00"],
+    "flag": "flags/GRL",
+    "name": "Greenland",
+    "alpha2Code": "GL",
+    "alpha3Code": "GRL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e980e" },
+    "callingCodes": ["241"],
+    "latlng": [{ "$numberInt": "-1" }, { "$numberDouble": "11.75" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/GAB",
+    "name": "Gabon",
+    "alpha2Code": "GA",
+    "alpha3Code": "GAB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9818" },
+    "callingCodes": ["1671"],
+    "latlng": [
+      { "$numberDouble": "13.46666666" },
+      { "$numberDouble": "144.78333333" }
+    ],
+    "timezones": ["UTC+10:00"],
+    "flag": "flags/GUM",
+    "name": "Guam",
+    "alpha2Code": "GU",
+    "alpha3Code": "GUM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9814" },
+    "callingCodes": ["30"],
+    "latlng": [{ "$numberInt": "39" }, { "$numberInt": "22" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/GRC",
+    "name": "Greece",
+    "alpha2Code": "GR",
+    "alpha3Code": "GRC"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e980d" },
+    "callingCodes": [""],
+    "latlng": [{ "$numberDouble": "-49.25" }, { "$numberDouble": "69.167" }],
+    "timezones": ["UTC+05:00"],
+    "flag": "flags/ATF",
+    "name": "French Southern Territories",
+    "alpha2Code": "TF",
+    "alpha3Code": "ATF"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9810" },
+    "callingCodes": ["995"],
+    "latlng": [{ "$numberInt": "42" }, { "$numberDouble": "43.5" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/GEO",
+    "name": "Georgia",
+    "alpha2Code": "GE",
+    "alpha3Code": "GEO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9812" },
+    "callingCodes": ["233"],
+    "latlng": [{ "$numberInt": "8" }, { "$numberInt": "-2" }],
+    "timezones": ["UTC"],
+    "flag": "flags/GHA",
+    "name": "Ghana",
+    "alpha2Code": "GH",
+    "alpha3Code": "GHA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9811" },
+    "callingCodes": ["49"],
+    "latlng": [{ "$numberInt": "51" }, { "$numberInt": "9" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/DEU",
+    "name": "Germany",
+    "alpha2Code": "DE",
+    "alpha3Code": "DEU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e981a" },
+    "callingCodes": ["44"],
+    "latlng": [
+      { "$numberDouble": "49.46666666" },
+      { "$numberDouble": "-2.58333333" }
+    ],
+    "timezones": ["UTC+00:00"],
+    "flag": "flags/GGY",
+    "name": "Guernsey",
+    "alpha2Code": "GG",
+    "alpha3Code": "GGY"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9824" },
+    "callingCodes": ["354"],
+    "latlng": [{ "$numberInt": "65" }, { "$numberInt": "-18" }],
+    "timezones": ["UTC"],
+    "flag": "flags/ISL",
+    "name": "Iceland",
+    "alpha2Code": "IS",
+    "alpha3Code": "ISL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9821" },
+    "callingCodes": ["504"],
+    "latlng": [{ "$numberInt": "15" }, { "$numberDouble": "-86.5" }],
+    "timezones": ["UTC-06:00"],
+    "flag": "flags/HND",
+    "name": "Honduras",
+    "alpha2Code": "HN",
+    "alpha3Code": "HND"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e981c" },
+    "callingCodes": ["245"],
+    "latlng": [{ "$numberInt": "12" }, { "$numberInt": "-15" }],
+    "timezones": ["UTC"],
+    "flag": "flags/GNB",
+    "name": "Guinea-Bissau",
+    "alpha2Code": "GW",
+    "alpha3Code": "GNB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9825" },
+    "callingCodes": ["91"],
+    "latlng": [{ "$numberInt": "20" }, { "$numberInt": "77" }],
+    "timezones": ["UTC+05:30"],
+    "flag": "flags/IND",
+    "name": "India",
+    "alpha2Code": "IN",
+    "alpha3Code": "IND"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e981e" },
+    "callingCodes": ["509"],
+    "latlng": [{ "$numberInt": "19" }, { "$numberDouble": "-72.41666666" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/HTI",
+    "name": "Haiti",
+    "alpha2Code": "HT",
+    "alpha3Code": "HTI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9826" },
+    "callingCodes": ["62"],
+    "latlng": [{ "$numberInt": "-5" }, { "$numberInt": "120" }],
+    "timezones": ["UTC+07:00", "UTC+08:00", "UTC+09:00"],
+    "flag": "flags/IDN",
+    "name": "Indonesia",
+    "alpha2Code": "ID",
+    "alpha3Code": "IDN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9820" },
+    "callingCodes": ["379"],
+    "latlng": [{ "$numberDouble": "41.9" }, { "$numberDouble": "12.45" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/VAT",
+    "name": "Holy See",
+    "alpha2Code": "VA",
+    "alpha3Code": "VAT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9822" },
+    "callingCodes": ["852"],
+    "latlng": [
+      { "$numberDouble": "22.25" },
+      { "$numberDouble": "114.16666666" }
+    ],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/HKG",
+    "name": "Hong Kong",
+    "alpha2Code": "HK",
+    "alpha3Code": "HKG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e981b" },
+    "callingCodes": ["224"],
+    "latlng": [{ "$numberInt": "11" }, { "$numberInt": "-10" }],
+    "timezones": ["UTC"],
+    "flag": "flags/GIN",
+    "name": "Guinea",
+    "alpha2Code": "GN",
+    "alpha3Code": "GIN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9827" },
+    "callingCodes": ["225"],
+    "latlng": [{ "$numberInt": "8" }, { "$numberInt": "-5" }],
+    "timezones": ["UTC"],
+    "flag": "flags/CIV",
+    "name": "Côte d'Ivoire",
+    "alpha2Code": "CI",
+    "alpha3Code": "CIV"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e981d" },
+    "callingCodes": ["592"],
+    "latlng": [{ "$numberInt": "5" }, { "$numberInt": "-59" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/GUY",
+    "name": "Guyana",
+    "alpha2Code": "GY",
+    "alpha3Code": "GUY"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e981f" },
+    "callingCodes": [""],
+    "latlng": [
+      { "$numberDouble": "-53.1" },
+      { "$numberDouble": "72.51666666" }
+    ],
+    "timezones": ["UTC+05:00"],
+    "flag": "flags/HMD",
+    "name": "Heard Island and McDonald Islands",
+    "alpha2Code": "HM",
+    "alpha3Code": "HMD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9819" },
+    "callingCodes": ["502"],
+    "latlng": [{ "$numberDouble": "15.5" }, { "$numberDouble": "-90.25" }],
+    "timezones": ["UTC-06:00"],
+    "flag": "flags/GTM",
+    "name": "Guatemala",
+    "alpha2Code": "GT",
+    "alpha3Code": "GTM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9823" },
+    "callingCodes": ["36"],
+    "latlng": [{ "$numberInt": "47" }, { "$numberInt": "20" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/HUN",
+    "name": "Hungary",
+    "alpha2Code": "HU",
+    "alpha3Code": "HUN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9829" },
+    "callingCodes": ["964"],
+    "latlng": [{ "$numberInt": "33" }, { "$numberInt": "44" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/IRQ",
+    "name": "Iraq",
+    "alpha2Code": "IQ",
+    "alpha3Code": "IRQ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9833" },
+    "callingCodes": ["254"],
+    "latlng": [{ "$numberInt": "1" }, { "$numberInt": "38" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/KEN",
+    "name": "Kenya",
+    "alpha2Code": "KE",
+    "alpha3Code": "KEN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e982c" },
+    "callingCodes": ["972"],
+    "latlng": [{ "$numberDouble": "31.5" }, { "$numberDouble": "34.75" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/ISR",
+    "name": "Israel",
+    "alpha2Code": "IL",
+    "alpha3Code": "ISR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9830" },
+    "callingCodes": ["44"],
+    "latlng": [
+      { "$numberDouble": "49.25" },
+      { "$numberDouble": "-2.16666666" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/JEY",
+    "name": "Jersey",
+    "alpha2Code": "JE",
+    "alpha3Code": "JEY"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9834" },
+    "callingCodes": ["686"],
+    "latlng": [{ "$numberDouble": "1.41666666" }, { "$numberInt": "173" }],
+    "timezones": ["UTC+12:00", "UTC+13:00", "UTC+14:00"],
+    "flag": "flags/KIR",
+    "name": "Kiribati",
+    "alpha2Code": "KI",
+    "alpha3Code": "KIR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e982b" },
+    "callingCodes": ["44"],
+    "latlng": [{ "$numberDouble": "54.25" }, { "$numberDouble": "-4.5" }],
+    "timezones": ["UTC+00:00"],
+    "flag": "flags/IMN",
+    "name": "Isle of Man",
+    "alpha2Code": "IM",
+    "alpha3Code": "IMN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9831" },
+    "callingCodes": ["962"],
+    "latlng": [{ "$numberInt": "31" }, { "$numberInt": "36" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/JOR",
+    "name": "Jordan",
+    "alpha2Code": "JO",
+    "alpha3Code": "JOR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9835" },
+    "callingCodes": ["965"],
+    "latlng": [{ "$numberDouble": "29.5" }, { "$numberDouble": "45.75" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/KWT",
+    "name": "Kuwait",
+    "alpha2Code": "KW",
+    "alpha3Code": "KWT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e982a" },
+    "callingCodes": ["353"],
+    "latlng": [{ "$numberInt": "53" }, { "$numberInt": "-8" }],
+    "timezones": ["UTC"],
+    "flag": "flags/IRL",
+    "name": "Ireland",
+    "alpha2Code": "IE",
+    "alpha3Code": "IRL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9837" },
+    "callingCodes": ["856"],
+    "latlng": [{ "$numberInt": "18" }, { "$numberInt": "105" }],
+    "timezones": ["UTC+07:00"],
+    "flag": "flags/LAO",
+    "name": "Lao People's Democratic Republic",
+    "alpha2Code": "LA",
+    "alpha3Code": "LAO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9828" },
+    "callingCodes": ["98"],
+    "latlng": [{ "$numberInt": "32" }, { "$numberInt": "53" }],
+    "timezones": ["UTC+03:30"],
+    "flag": "flags/IRN",
+    "name": "ايران",
+    "alpha2Code": "IR",
+    "alpha3Code": "IRN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e982f" },
+    "callingCodes": ["81"],
+    "latlng": [{ "$numberInt": "36" }, { "$numberInt": "138" }],
+    "timezones": ["UTC+09:00"],
+    "flag": "flags/JPN",
+    "name": "Japan",
+    "alpha2Code": "JP",
+    "alpha3Code": "JPN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e982e" },
+    "callingCodes": ["1876"],
+    "latlng": [{ "$numberDouble": "18.25" }, { "$numberDouble": "-77.5" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/JAM",
+    "name": "Jamaica",
+    "alpha2Code": "JM",
+    "alpha3Code": "JAM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9832" },
+    "callingCodes": ["76", "77"],
+    "latlng": [{ "$numberInt": "48" }, { "$numberInt": "68" }],
+    "timezones": ["UTC+05:00", "UTC+06:00"],
+    "flag": "flags/KAZ",
+    "name": "Kazakhstan",
+    "alpha2Code": "KZ",
+    "alpha3Code": "KAZ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e982d" },
+    "callingCodes": ["39"],
+    "latlng": [
+      { "$numberDouble": "42.83333333" },
+      { "$numberDouble": "12.83333333" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/ITA",
+    "name": "Italy",
+    "alpha2Code": "IT",
+    "alpha3Code": "ITA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9836" },
+    "callingCodes": ["996"],
+    "latlng": [{ "$numberInt": "41" }, { "$numberInt": "75" }],
+    "timezones": ["UTC+06:00"],
+    "flag": "flags/KGZ",
+    "name": "Kyrgyzstan",
+    "alpha2Code": "KG",
+    "alpha3Code": "KGZ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9839" },
+    "callingCodes": ["961"],
+    "latlng": [
+      { "$numberDouble": "33.83333333" },
+      { "$numberDouble": "35.83333333" }
+    ],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/LBN",
+    "name": "Lebanon",
+    "alpha2Code": "LB",
+    "alpha3Code": "LBN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9838" },
+    "callingCodes": ["371"],
+    "latlng": [{ "$numberInt": "57" }, { "$numberInt": "25" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/LVA",
+    "name": "Latvia",
+    "alpha2Code": "LV",
+    "alpha3Code": "LVA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9842" },
+    "callingCodes": ["261"],
+    "latlng": [{ "$numberInt": "-20" }, { "$numberInt": "47" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/MDG",
+    "name": "Madagascar",
+    "alpha2Code": "MG",
+    "alpha3Code": "MDG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e983b" },
+    "callingCodes": ["231"],
+    "latlng": [{ "$numberDouble": "6.5" }, { "$numberDouble": "-9.5" }],
+    "timezones": ["UTC"],
+    "flag": "flags/LBR",
+    "name": "Liberia",
+    "alpha2Code": "LR",
+    "alpha3Code": "LBR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9841" },
+    "callingCodes": ["389"],
+    "latlng": [{ "$numberDouble": "41.83333333" }, { "$numberInt": "22" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/MKD",
+    "name": "Macedonia (the former Yugoslav Republic of)",
+    "alpha2Code": "MK",
+    "alpha3Code": "MKD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9846" },
+    "callingCodes": ["223"],
+    "latlng": [{ "$numberInt": "17" }, { "$numberInt": "-4" }],
+    "timezones": ["UTC"],
+    "flag": "flags/MLI",
+    "name": "Mali",
+    "alpha2Code": "ML",
+    "alpha3Code": "MLI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e983e" },
+    "callingCodes": ["370"],
+    "latlng": [{ "$numberInt": "56" }, { "$numberInt": "24" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/LTU",
+    "name": "Lithuania",
+    "alpha2Code": "LT",
+    "alpha3Code": "LTU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e983c" },
+    "callingCodes": ["218"],
+    "latlng": [{ "$numberInt": "25" }, { "$numberInt": "17" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/LBY",
+    "name": "Libya",
+    "alpha2Code": "LY",
+    "alpha3Code": "LBY"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9848" },
+    "callingCodes": ["692"],
+    "latlng": [{ "$numberInt": "9" }, { "$numberInt": "168" }],
+    "timezones": ["UTC+12:00"],
+    "flag": "flags/MHL",
+    "name": "Marshall Islands",
+    "alpha2Code": "MH",
+    "alpha3Code": "MHL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e983d" },
+    "callingCodes": ["423"],
+    "latlng": [
+      { "$numberDouble": "47.26666666" },
+      { "$numberDouble": "9.53333333" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/LIE",
+    "name": "Liechtenstein",
+    "alpha2Code": "LI",
+    "alpha3Code": "LIE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9843" },
+    "callingCodes": ["265"],
+    "latlng": [{ "$numberDouble": "-13.5" }, { "$numberInt": "34" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/MWI",
+    "name": "Malawi",
+    "alpha2Code": "MW",
+    "alpha3Code": "MWI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9845" },
+    "callingCodes": ["960"],
+    "latlng": [{ "$numberDouble": "3.25" }, { "$numberInt": "73" }],
+    "timezones": ["UTC+05:00"],
+    "flag": "flags/MDV",
+    "name": "Maldives",
+    "alpha2Code": "MV",
+    "alpha3Code": "MDV"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e983f" },
+    "callingCodes": ["352"],
+    "latlng": [{ "$numberDouble": "49.75" }, { "$numberDouble": "6.16666666" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/LUX",
+    "name": "Luxembourg",
+    "alpha2Code": "LU",
+    "alpha3Code": "LUX"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e983a" },
+    "callingCodes": ["266"],
+    "latlng": [{ "$numberDouble": "-29.5" }, { "$numberDouble": "28.5" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/LSO",
+    "name": "Lesotho",
+    "alpha2Code": "LS",
+    "alpha3Code": "LSO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9840" },
+    "callingCodes": ["853"],
+    "latlng": [
+      { "$numberDouble": "22.16666666" },
+      { "$numberDouble": "113.55" }
+    ],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/MAC",
+    "name": "Macao",
+    "alpha2Code": "MO",
+    "alpha3Code": "MAC"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9847" },
+    "callingCodes": ["356"],
+    "latlng": [
+      { "$numberDouble": "35.83333333" },
+      { "$numberDouble": "14.58333333" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/MLT",
+    "name": "Malta",
+    "alpha2Code": "MT",
+    "alpha3Code": "MLT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9844" },
+    "callingCodes": ["60"],
+    "latlng": [{ "$numberDouble": "2.5" }, { "$numberDouble": "112.5" }],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/MYS",
+    "name": "Malaysia",
+    "alpha2Code": "MY",
+    "alpha3Code": "MYS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e984b" },
+    "callingCodes": ["230"],
+    "latlng": [
+      { "$numberDouble": "-20.28333333" },
+      { "$numberDouble": "57.55" }
+    ],
+    "timezones": ["UTC+04:00"],
+    "flag": "flags/MUS",
+    "name": "Mauritius",
+    "alpha2Code": "MU",
+    "alpha3Code": "MUS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9857" },
+    "callingCodes": ["264"],
+    "latlng": [{ "$numberInt": "-22" }, { "$numberInt": "17" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/NAM",
+    "name": "Namibia",
+    "alpha2Code": "NA",
+    "alpha3Code": "NAM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e984c" },
+    "callingCodes": ["262"],
+    "latlng": [
+      { "$numberDouble": "-12.83333333" },
+      { "$numberDouble": "45.16666666" }
+    ],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/MYT",
+    "name": "Mayotte",
+    "alpha2Code": "YT",
+    "alpha3Code": "MYT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9850" },
+    "callingCodes": ["377"],
+    "latlng": [{ "$numberDouble": "43.73333333" }, { "$numberDouble": "7.4" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/MCO",
+    "name": "Monaco",
+    "alpha2Code": "MC",
+    "alpha3Code": "MCO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9856" },
+    "callingCodes": ["95"],
+    "latlng": [{ "$numberInt": "22" }, { "$numberInt": "98" }],
+    "timezones": ["UTC+06:30"],
+    "flag": "flags/MMR",
+    "name": "Myanmar",
+    "alpha2Code": "MM",
+    "alpha3Code": "MMR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9851" },
+    "callingCodes": ["976"],
+    "latlng": [{ "$numberInt": "46" }, { "$numberInt": "105" }],
+    "timezones": ["UTC+07:00", "UTC+08:00"],
+    "flag": "flags/MNG",
+    "name": "Mongolia",
+    "alpha2Code": "MN",
+    "alpha3Code": "MNG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9858" },
+    "callingCodes": ["674"],
+    "latlng": [
+      { "$numberDouble": "-0.53333333" },
+      { "$numberDouble": "166.91666666" }
+    ],
+    "timezones": ["UTC+12:00"],
+    "flag": "flags/NRU",
+    "name": "Nauru",
+    "alpha2Code": "NR",
+    "alpha3Code": "NRU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9853" },
+    "callingCodes": ["1664"],
+    "latlng": [{ "$numberDouble": "16.75" }, { "$numberDouble": "-62.2" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/MSR",
+    "name": "Montserrat",
+    "alpha2Code": "MS",
+    "alpha3Code": "MSR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e984e" },
+    "callingCodes": ["691"],
+    "latlng": [
+      { "$numberDouble": "6.91666666" },
+      { "$numberDouble": "158.25" }
+    ],
+    "timezones": ["UTC+10:00", "UTC+11"],
+    "flag": "flags/FSM",
+    "name": "Micronesia (Federated States of)",
+    "alpha2Code": "FM",
+    "alpha3Code": "FSM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9859" },
+    "callingCodes": ["977"],
+    "latlng": [{ "$numberInt": "28" }, { "$numberInt": "84" }],
+    "timezones": ["UTC+05:45"],
+    "flag": "flags/NPL",
+    "name": "Nepal",
+    "alpha2Code": "NP",
+    "alpha3Code": "NPL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9854" },
+    "callingCodes": ["212"],
+    "latlng": [{ "$numberInt": "32" }, { "$numberInt": "-5" }],
+    "timezones": ["UTC"],
+    "flag": "flags/MAR",
+    "name": "Morocco",
+    "alpha2Code": "MA",
+    "alpha3Code": "MAR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9849" },
+    "callingCodes": ["596"],
+    "latlng": [{ "$numberDouble": "14.666667" }, { "$numberInt": "-61" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/MTQ",
+    "name": "Martinique",
+    "alpha2Code": "MQ",
+    "alpha3Code": "MTQ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9852" },
+    "callingCodes": ["382"],
+    "latlng": [{ "$numberDouble": "42.5" }, { "$numberDouble": "19.3" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/MNE",
+    "name": "Montenegro",
+    "alpha2Code": "ME",
+    "alpha3Code": "MNE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e984d" },
+    "callingCodes": ["52"],
+    "latlng": [{ "$numberInt": "23" }, { "$numberInt": "-102" }],
+    "timezones": ["UTC-08:00", "UTC-07:00", "UTC-06:00"],
+    "flag": "flags/MEX",
+    "name": "Mexico",
+    "alpha2Code": "MX",
+    "alpha3Code": "MEX"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9855" },
+    "callingCodes": ["258"],
+    "latlng": [{ "$numberDouble": "-18.25" }, { "$numberInt": "35" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/MOZ",
+    "name": "Mozambique",
+    "alpha2Code": "MZ",
+    "alpha3Code": "MOZ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e985a" },
+    "callingCodes": ["31"],
+    "latlng": [{ "$numberDouble": "52.5" }, { "$numberDouble": "5.75" }],
+    "timezones": ["UTC-04:00", "UTC+01:00"],
+    "flag": "flags/NLD",
+    "name": "Netherlands",
+    "alpha2Code": "NL",
+    "alpha3Code": "NLD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e984a" },
+    "callingCodes": ["222"],
+    "latlng": [{ "$numberInt": "20" }, { "$numberInt": "-12" }],
+    "timezones": ["UTC"],
+    "flag": "flags/MRT",
+    "name": "Mauritania",
+    "alpha2Code": "MR",
+    "alpha3Code": "MRT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e984f" },
+    "callingCodes": ["373"],
+    "latlng": [{ "$numberInt": "47" }, { "$numberInt": "29" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/MDA",
+    "name": "Moldova (Republic of)",
+    "alpha2Code": "MD",
+    "alpha3Code": "MDA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e985e" },
+    "callingCodes": ["227"],
+    "latlng": [{ "$numberInt": "16" }, { "$numberInt": "8" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/NER",
+    "name": "Niger",
+    "alpha2Code": "NE",
+    "alpha3Code": "NER"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e985f" },
+    "callingCodes": ["234"],
+    "latlng": [{ "$numberInt": "10" }, { "$numberInt": "8" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/NGA",
+    "name": "Nigeria",
+    "alpha2Code": "NG",
+    "alpha3Code": "NGA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9867" },
+    "callingCodes": ["680"],
+    "latlng": [{ "$numberDouble": "7.5" }, { "$numberDouble": "134.5" }],
+    "timezones": ["UTC+09:00"],
+    "flag": "flags/PLW",
+    "name": "Palau",
+    "alpha2Code": "PW",
+    "alpha3Code": "PLW"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9860" },
+    "callingCodes": ["683"],
+    "latlng": [
+      { "$numberDouble": "-19.03333333" },
+      { "$numberDouble": "-169.86666666" }
+    ],
+    "timezones": ["UTC-11:00"],
+    "flag": "flags/NIU",
+    "name": "Niue",
+    "alpha2Code": "NU",
+    "alpha3Code": "NIU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e986a" },
+    "callingCodes": ["675"],
+    "latlng": [{ "$numberInt": "-6" }, { "$numberInt": "147" }],
+    "timezones": ["UTC+10:00"],
+    "flag": "flags/PNG",
+    "name": "Papua New Guinea",
+    "alpha2Code": "PG",
+    "alpha3Code": "PNG"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9869" },
+    "callingCodes": ["507"],
+    "latlng": [{ "$numberInt": "9" }, { "$numberInt": "-80" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/PAN",
+    "name": "Panama",
+    "alpha2Code": "PA",
+    "alpha3Code": "PAN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9865" },
+    "callingCodes": ["968"],
+    "latlng": [{ "$numberInt": "21" }, { "$numberInt": "57" }],
+    "timezones": ["UTC+04:00"],
+    "flag": "flags/OMN",
+    "name": "Oman",
+    "alpha2Code": "OM",
+    "alpha3Code": "OMN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9862" },
+    "callingCodes": ["850"],
+    "latlng": [{ "$numberInt": "40" }, { "$numberInt": "127" }],
+    "timezones": ["UTC+09:00"],
+    "flag": "flags/PRK",
+    "name": "Korea (Democratic People's Republic of)",
+    "alpha2Code": "KP",
+    "alpha3Code": "PRK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9863" },
+    "callingCodes": ["1670"],
+    "latlng": [{ "$numberDouble": "15.2" }, { "$numberDouble": "145.75" }],
+    "timezones": ["UTC+10:00"],
+    "flag": "flags/MNP",
+    "name": "Northern Mariana Islands",
+    "alpha2Code": "MP",
+    "alpha3Code": "MNP"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e985b" },
+    "callingCodes": ["687"],
+    "latlng": [{ "$numberDouble": "-21.5" }, { "$numberDouble": "165.5" }],
+    "timezones": ["UTC+11:00"],
+    "flag": "flags/NCL",
+    "name": "New Caledonia",
+    "alpha2Code": "NC",
+    "alpha3Code": "NCL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9864" },
+    "callingCodes": ["47"],
+    "latlng": [{ "$numberInt": "62" }, { "$numberInt": "10" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/NOR",
+    "name": "Norway",
+    "alpha2Code": "NO",
+    "alpha3Code": "NOR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e985d" },
+    "callingCodes": ["505"],
+    "latlng": [{ "$numberInt": "13" }, { "$numberInt": "-85" }],
+    "timezones": ["UTC-06:00"],
+    "flag": "flags/NIC",
+    "name": "Nicaragua",
+    "alpha2Code": "NI",
+    "alpha3Code": "NIC"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9868" },
+    "callingCodes": ["970"],
+    "latlng": [{ "$numberDouble": "31.9" }, { "$numberDouble": "35.2" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/PSE",
+    "name": "Palestine, State of",
+    "alpha2Code": "PS",
+    "alpha3Code": "PSE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9861" },
+    "callingCodes": ["672"],
+    "latlng": [
+      { "$numberDouble": "-29.03333333" },
+      { "$numberDouble": "167.95" }
+    ],
+    "timezones": ["UTC+11:30"],
+    "flag": "flags/NFK",
+    "name": "Norfolk Island",
+    "alpha2Code": "NF",
+    "alpha3Code": "NFK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e986c" },
+    "callingCodes": ["51"],
+    "latlng": [{ "$numberInt": "-10" }, { "$numberInt": "-76" }],
+    "timezones": ["UTC-05:00"],
+    "flag": "flags/PER",
+    "name": "Peru",
+    "alpha2Code": "PE",
+    "alpha3Code": "PER"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e985c" },
+    "callingCodes": ["64"],
+    "latlng": [{ "$numberInt": "-41" }, { "$numberInt": "174" }],
+    "timezones": [
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC+12:00",
+      "UTC+12:45",
+      "UTC+13:00"
+    ],
+    "flag": "flags/NZL",
+    "name": "New Zealand",
+    "alpha2Code": "NZ",
+    "alpha3Code": "NZL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e986b" },
+    "callingCodes": ["595"],
+    "latlng": [{ "$numberInt": "-23" }, { "$numberInt": "-58" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/PRY",
+    "name": "Paraguay",
+    "alpha2Code": "PY",
+    "alpha3Code": "PRY"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9866" },
+    "callingCodes": ["92"],
+    "latlng": [{ "$numberInt": "30" }, { "$numberInt": "70" }],
+    "timezones": ["UTC+05:00"],
+    "flag": "flags/PAK",
+    "name": "Pakistan",
+    "alpha2Code": "PK",
+    "alpha3Code": "PAK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9873" },
+    "callingCodes": ["383"],
+    "latlng": [
+      { "$numberDouble": "42.666667" },
+      { "$numberDouble": "21.166667" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/KOS",
+    "name": "Republic of Kosovo",
+    "alpha2Code": "XK",
+    "alpha3Code": "KOS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9876" },
+    "callingCodes": ["7"],
+    "latlng": [{ "$numberInt": "60" }, { "$numberInt": "100" }],
+    "timezones": [
+      "UTC+03:00",
+      "UTC+04:00",
+      "UTC+06:00",
+      "UTC+07:00",
+      "UTC+08:00",
+      "UTC+09:00",
+      "UTC+10:00",
+      "UTC+11:00",
+      "UTC+12:00"
+    ],
+    "flag": "flags/RUS",
+    "name": "Russian Federation",
+    "alpha2Code": "RU",
+    "alpha3Code": "RUS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9870" },
+    "callingCodes": ["351"],
+    "latlng": [{ "$numberDouble": "39.5" }, { "$numberInt": "-8" }],
+    "timezones": ["UTC-01:00", "UTC"],
+    "flag": "flags/PRT",
+    "name": "Portugal",
+    "alpha2Code": "PT",
+    "alpha3Code": "PRT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e987f" },
+    "callingCodes": ["685"],
+    "latlng": [
+      { "$numberDouble": "-13.58333333" },
+      { "$numberDouble": "-172.33333333" }
+    ],
+    "timezones": ["UTC+13:00"],
+    "flag": "flags/WSM",
+    "name": "Samoa",
+    "alpha2Code": "WS",
+    "alpha3Code": "WSM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e987e" },
+    "callingCodes": ["1784"],
+    "latlng": [{ "$numberDouble": "13.25" }, { "$numberDouble": "-61.2" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "alpha2Code": "VC",
+    "alpha3Code": "VCT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e987b" },
+    "callingCodes": ["1758"],
+    "latlng": [
+      { "$numberDouble": "13.88333333" },
+      { "$numberDouble": "-60.96666666" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/LCA",
+    "name": "Saint Lucia",
+    "alpha2Code": "LC",
+    "alpha3Code": "LCA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9874" },
+    "callingCodes": ["262"],
+    "latlng": [{ "$numberDouble": "-21.15" }, { "$numberDouble": "55.5" }],
+    "timezones": ["UTC+04:00"],
+    "flag": "flags/REU",
+    "name": "Réunion",
+    "alpha2Code": "RE",
+    "alpha3Code": "REU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e987a" },
+    "callingCodes": ["1869"],
+    "latlng": [
+      { "$numberDouble": "17.33333333" },
+      { "$numberDouble": "-62.75" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/KNA",
+    "name": "Saint Kitts and Nevis",
+    "alpha2Code": "KN",
+    "alpha3Code": "KNA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e986e" },
+    "callingCodes": ["64"],
+    "latlng": [
+      { "$numberDouble": "-25.06666666" },
+      { "$numberDouble": "-130.1" }
+    ],
+    "timezones": ["UTC-08:00"],
+    "flag": "flags/PCN",
+    "name": "Pitcairn",
+    "alpha2Code": "PN",
+    "alpha3Code": "PCN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e986f" },
+    "callingCodes": ["48"],
+    "latlng": [{ "$numberInt": "52" }, { "$numberInt": "20" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/POL",
+    "name": "Poland",
+    "alpha2Code": "PL",
+    "alpha3Code": "POL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9879" },
+    "callingCodes": ["290"],
+    "latlng": [{ "$numberDouble": "-15.95" }, { "$numberDouble": "-5.7" }],
+    "timezones": ["UTC+00:00"],
+    "flag": "flags/SHN",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "alpha2Code": "SH",
+    "alpha3Code": "SHN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9878" },
+    "callingCodes": ["590"],
+    "latlng": [
+      { "$numberDouble": "18.5" },
+      { "$numberDouble": "-63.41666666" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/BLM",
+    "name": "Saint Barthélemy",
+    "alpha2Code": "BL",
+    "alpha3Code": "BLM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e987d" },
+    "callingCodes": ["508"],
+    "latlng": [
+      { "$numberDouble": "46.83333333" },
+      { "$numberDouble": "-56.33333333" }
+    ],
+    "timezones": ["UTC-03:00"],
+    "flag": "flags/SPM",
+    "name": "Saint Pierre and Miquelon",
+    "alpha2Code": "PM",
+    "alpha3Code": "SPM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9880" },
+    "callingCodes": ["378"],
+    "latlng": [
+      { "$numberDouble": "43.76666666" },
+      { "$numberDouble": "12.41666666" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/SMR",
+    "name": "San Marino",
+    "alpha2Code": "SM",
+    "alpha3Code": "SMR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9877" },
+    "callingCodes": ["250"],
+    "latlng": [{ "$numberInt": "-2" }, { "$numberInt": "30" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/RWA",
+    "name": "Rwanda",
+    "alpha2Code": "RW",
+    "alpha3Code": "RWA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9871" },
+    "callingCodes": ["1787", "1939"],
+    "latlng": [{ "$numberDouble": "18.25" }, { "$numberDouble": "-66.5" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/PRI",
+    "name": "Puerto Rico",
+    "alpha2Code": "PR",
+    "alpha3Code": "PRI"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9872" },
+    "callingCodes": ["974"],
+    "latlng": [{ "$numberDouble": "25.5" }, { "$numberDouble": "51.25" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/QAT",
+    "name": "Qatar",
+    "alpha2Code": "QA",
+    "alpha3Code": "QAT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e987c" },
+    "callingCodes": ["590"],
+    "latlng": [
+      { "$numberDouble": "18.08333333" },
+      { "$numberDouble": "-63.95" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/MAF",
+    "name": "Saint Martin (French part)",
+    "alpha2Code": "MF",
+    "alpha3Code": "MAF"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9875" },
+    "callingCodes": ["40"],
+    "latlng": [{ "$numberInt": "46" }, { "$numberInt": "25" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/ROU",
+    "name": "Romania",
+    "alpha2Code": "RO",
+    "alpha3Code": "ROU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e986d" },
+    "callingCodes": ["63"],
+    "latlng": [{ "$numberInt": "13" }, { "$numberInt": "122" }],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/PHL",
+    "name": "Philippines",
+    "alpha2Code": "PH",
+    "alpha3Code": "PHL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9884" },
+    "callingCodes": ["381"],
+    "latlng": [{ "$numberInt": "44" }, { "$numberInt": "21" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/SRB",
+    "name": "Serbia",
+    "alpha2Code": "RS",
+    "alpha3Code": "SRB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e988a" },
+    "callingCodes": ["386"],
+    "latlng": [
+      { "$numberDouble": "46.11666666" },
+      { "$numberDouble": "14.81666666" }
+    ],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/SVN",
+    "name": "Slovenia",
+    "alpha2Code": "SI",
+    "alpha3Code": "SVN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9881" },
+    "callingCodes": ["239"],
+    "latlng": [{ "$numberInt": "1" }, { "$numberInt": "7" }],
+    "timezones": ["UTC"],
+    "flag": "flags/STP",
+    "name": "Sao Tome and Principe",
+    "alpha2Code": "ST",
+    "alpha3Code": "STP"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e988b" },
+    "callingCodes": ["677"],
+    "latlng": [{ "$numberInt": "-8" }, { "$numberInt": "159" }],
+    "timezones": ["UTC+11:00"],
+    "flag": "flags/SLB",
+    "name": "Solomon Islands",
+    "alpha2Code": "SB",
+    "alpha3Code": "SLB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9887" },
+    "callingCodes": ["65"],
+    "latlng": [{ "$numberDouble": "1.36666666" }, { "$numberDouble": "103.8" }],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/SGP",
+    "name": "Singapore",
+    "alpha2Code": "SG",
+    "alpha3Code": "SGP"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9886" },
+    "callingCodes": ["232"],
+    "latlng": [{ "$numberDouble": "8.5" }, { "$numberDouble": "-11.5" }],
+    "timezones": ["UTC"],
+    "flag": "flags/SLE",
+    "name": "Sierra Leone",
+    "alpha2Code": "SL",
+    "alpha3Code": "SLE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e988d" },
+    "callingCodes": ["27"],
+    "latlng": [{ "$numberInt": "-29" }, { "$numberInt": "24" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/ZAF",
+    "name": "South Africa",
+    "alpha2Code": "ZA",
+    "alpha3Code": "ZAF"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9890" },
+    "callingCodes": ["211"],
+    "latlng": [{ "$numberInt": "7" }, { "$numberInt": "30" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/SSD",
+    "name": "South Sudan",
+    "alpha2Code": "SS",
+    "alpha3Code": "SSD"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9889" },
+    "callingCodes": ["421"],
+    "latlng": [{ "$numberDouble": "48.66666666" }, { "$numberDouble": "19.5" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/SVK",
+    "name": "Slovakia",
+    "alpha2Code": "SK",
+    "alpha3Code": "SVK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9882" },
+    "callingCodes": ["966"],
+    "latlng": [{ "$numberInt": "25" }, { "$numberInt": "45" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/SAU",
+    "name": "Saudi Arabia",
+    "alpha2Code": "SA",
+    "alpha3Code": "SAU"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e988f" },
+    "callingCodes": ["82"],
+    "latlng": [{ "$numberInt": "37" }, { "$numberDouble": "127.5" }],
+    "timezones": ["UTC+09:00"],
+    "flag": "flags/KOR",
+    "name": "Korea (Republic of)",
+    "alpha2Code": "KR",
+    "alpha3Code": "KOR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9893" },
+    "callingCodes": ["249"],
+    "latlng": [{ "$numberInt": "15" }, { "$numberInt": "30" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/SDN",
+    "name": "Sudan",
+    "alpha2Code": "SD",
+    "alpha3Code": "SDN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9883" },
+    "callingCodes": ["221"],
+    "latlng": [{ "$numberInt": "14" }, { "$numberInt": "-14" }],
+    "timezones": ["UTC"],
+    "flag": "flags/SEN",
+    "name": "Senegal",
+    "alpha2Code": "SN",
+    "alpha3Code": "SEN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9885" },
+    "callingCodes": ["248"],
+    "latlng": [
+      { "$numberDouble": "-4.58333333" },
+      { "$numberDouble": "55.66666666" }
+    ],
+    "timezones": ["UTC+04:00"],
+    "flag": "flags/SYC",
+    "name": "Seychelles",
+    "alpha2Code": "SC",
+    "alpha3Code": "SYC"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9888" },
+    "callingCodes": ["1721"],
+    "latlng": [{ "$numberDouble": "18.033333" }, { "$numberDouble": "-63.05" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/SXM",
+    "name": "Sint Maarten (Dutch part)",
+    "alpha2Code": "SX",
+    "alpha3Code": "SXM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e988e" },
+    "callingCodes": ["500"],
+    "latlng": [{ "$numberDouble": "-54.5" }, { "$numberInt": "-37" }],
+    "timezones": ["UTC-02:00"],
+    "flag": "flags/SGS",
+    "name": "South Georgia and the South Sandwich Islands",
+    "alpha2Code": "GS",
+    "alpha3Code": "SGS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9894" },
+    "callingCodes": ["597"],
+    "latlng": [{ "$numberInt": "4" }, { "$numberInt": "-56" }],
+    "timezones": ["UTC-03:00"],
+    "flag": "flags/SUR",
+    "name": "Suriname",
+    "alpha2Code": "SR",
+    "alpha3Code": "SUR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e988c" },
+    "callingCodes": ["252"],
+    "latlng": [{ "$numberInt": "10" }, { "$numberInt": "49" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/SOM",
+    "name": "Somalia",
+    "alpha2Code": "SO",
+    "alpha3Code": "SOM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9891" },
+    "callingCodes": ["34"],
+    "latlng": [{ "$numberInt": "40" }, { "$numberInt": "-4" }],
+    "timezones": ["UTC", "UTC+01:00"],
+    "flag": "flags/ESP",
+    "name": "Spain",
+    "alpha2Code": "ES",
+    "alpha3Code": "ESP"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9895" },
+    "callingCodes": ["4779"],
+    "latlng": [{ "$numberInt": "78" }, { "$numberInt": "20" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/SJM",
+    "name": "Svalbard and Jan Mayen",
+    "alpha2Code": "SJ",
+    "alpha3Code": "SJM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9892" },
+    "callingCodes": ["94"],
+    "latlng": [{ "$numberInt": "7" }, { "$numberInt": "81" }],
+    "timezones": ["UTC+05:30"],
+    "flag": "flags/LKA",
+    "name": "Sri Lanka",
+    "alpha2Code": "LK",
+    "alpha3Code": "LKA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9896" },
+    "callingCodes": ["268"],
+    "latlng": [{ "$numberDouble": "-26.5" }, { "$numberDouble": "31.5" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/SWZ",
+    "name": "Swaziland",
+    "alpha2Code": "SZ",
+    "alpha3Code": "SWZ"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9899" },
+    "callingCodes": ["963"],
+    "latlng": [{ "$numberInt": "35" }, { "$numberInt": "38" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/SYR",
+    "name": "Syrian Arab Republic",
+    "alpha2Code": "SY",
+    "alpha3Code": "SYR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e989b" },
+    "callingCodes": ["992"],
+    "latlng": [{ "$numberInt": "39" }, { "$numberInt": "71" }],
+    "timezones": ["UTC+05:00"],
+    "flag": "flags/TJK",
+    "name": "Tajikistan",
+    "alpha2Code": "TJ",
+    "alpha3Code": "TJK"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e989c" },
+    "callingCodes": ["255"],
+    "latlng": [{ "$numberInt": "-6" }, { "$numberInt": "35" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/TZA",
+    "name": "Tanzania, United Republic of",
+    "alpha2Code": "TZ",
+    "alpha3Code": "TZA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e989e" },
+    "callingCodes": ["670"],
+    "latlng": [
+      { "$numberDouble": "-8.83333333" },
+      { "$numberDouble": "125.91666666" }
+    ],
+    "timezones": ["UTC+09:00"],
+    "flag": "flags/TLS",
+    "name": "Timor-Leste",
+    "alpha2Code": "TL",
+    "alpha3Code": "TLS"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9897" },
+    "callingCodes": ["46"],
+    "latlng": [{ "$numberInt": "62" }, { "$numberInt": "15" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/SWE",
+    "name": "Sweden",
+    "alpha2Code": "SE",
+    "alpha3Code": "SWE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a5" },
+    "callingCodes": ["993"],
+    "latlng": [{ "$numberInt": "40" }, { "$numberInt": "60" }],
+    "timezones": ["UTC+05:00"],
+    "flag": "flags/TKM",
+    "name": "Turkmenistan",
+    "alpha2Code": "TM",
+    "alpha3Code": "TKM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a4" },
+    "callingCodes": ["90"],
+    "latlng": [{ "$numberInt": "39" }, { "$numberInt": "35" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/TUR",
+    "name": "Turkey",
+    "alpha2Code": "TR",
+    "alpha3Code": "TUR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98aa" },
+    "callingCodes": ["971"],
+    "latlng": [{ "$numberInt": "24" }, { "$numberInt": "54" }],
+    "timezones": ["UTC+04"],
+    "flag": "flags/ARE",
+    "name": "United Arab Emirates",
+    "alpha2Code": "AE",
+    "alpha3Code": "ARE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a7" },
+    "callingCodes": ["688"],
+    "latlng": [{ "$numberInt": "-8" }, { "$numberInt": "178" }],
+    "timezones": ["UTC+12:00"],
+    "flag": "flags/TUV",
+    "name": "Tuvalu",
+    "alpha2Code": "TV",
+    "alpha3Code": "TUV"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a6" },
+    "callingCodes": ["1649"],
+    "latlng": [
+      { "$numberDouble": "21.75" },
+      { "$numberDouble": "-71.58333333" }
+    ],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/TCA",
+    "name": "Turks and Caicos Islands",
+    "alpha2Code": "TC",
+    "alpha3Code": "TCA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a0" },
+    "callingCodes": ["690"],
+    "latlng": [{ "$numberInt": "-9" }, { "$numberInt": "-172" }],
+    "timezones": ["UTC+13:00"],
+    "flag": "flags/TKL",
+    "name": "Tokelau",
+    "alpha2Code": "TK",
+    "alpha3Code": "TKL"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e9898" },
+    "callingCodes": ["41"],
+    "latlng": [{ "$numberInt": "47" }, { "$numberInt": "8" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/CHE",
+    "name": "Switzerland",
+    "alpha2Code": "CH",
+    "alpha3Code": "CHE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a9" },
+    "callingCodes": ["380"],
+    "latlng": [{ "$numberInt": "49" }, { "$numberInt": "32" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/UKR",
+    "name": "Ukraine",
+    "alpha2Code": "UA",
+    "alpha3Code": "UKR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e989d" },
+    "callingCodes": ["66"],
+    "latlng": [{ "$numberInt": "15" }, { "$numberInt": "100" }],
+    "timezones": ["UTC+07:00"],
+    "flag": "flags/THA",
+    "name": "Thailand",
+    "alpha2Code": "TH",
+    "alpha3Code": "THA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e989a" },
+    "callingCodes": ["886"],
+    "latlng": [{ "$numberDouble": "23.5" }, { "$numberInt": "121" }],
+    "timezones": ["UTC+08:00"],
+    "flag": "flags/TWN",
+    "name": "Taiwan",
+    "alpha2Code": "TW",
+    "alpha3Code": "TWN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a1" },
+    "callingCodes": ["676"],
+    "latlng": [{ "$numberInt": "-20" }, { "$numberInt": "-175" }],
+    "timezones": ["UTC+13:00"],
+    "flag": "flags/TON",
+    "name": "Tonga",
+    "alpha2Code": "TO",
+    "alpha3Code": "TON"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e989f" },
+    "callingCodes": ["228"],
+    "latlng": [{ "$numberInt": "8" }, { "$numberDouble": "1.16666666" }],
+    "timezones": ["UTC"],
+    "flag": "flags/TGO",
+    "name": "Togo",
+    "alpha2Code": "TG",
+    "alpha3Code": "TGO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a3" },
+    "callingCodes": ["216"],
+    "latlng": [{ "$numberInt": "34" }, { "$numberInt": "9" }],
+    "timezones": ["UTC+01:00"],
+    "flag": "flags/TUN",
+    "name": "Tunisia",
+    "alpha2Code": "TN",
+    "alpha3Code": "TUN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a8" },
+    "callingCodes": ["256"],
+    "latlng": [{ "$numberInt": "1" }, { "$numberInt": "32" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/UGA",
+    "name": "Uganda",
+    "alpha2Code": "UG",
+    "alpha3Code": "UGA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98a2" },
+    "callingCodes": ["1868"],
+    "latlng": [{ "$numberInt": "11" }, { "$numberInt": "-61" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/TTO",
+    "name": "Trinidad and Tobago",
+    "alpha2Code": "TT",
+    "alpha3Code": "TTO"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98ac" },
+    "callingCodes": ["1"],
+    "latlng": [{ "$numberInt": "38" }, { "$numberInt": "-97" }],
+    "timezones": [
+      "UTC-12:00",
+      "UTC-11:00",
+      "UTC-10:00",
+      "UTC-09:00",
+      "UTC-08:00",
+      "UTC-07:00",
+      "UTC-06:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC+10:00",
+      "UTC+12:00"
+    ],
+    "flag": "flags/USA",
+    "name": "United States",
+    "alpha2Code": "US",
+    "alpha3Code": "USA"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98ad" },
+    "callingCodes": ["598"],
+    "latlng": [{ "$numberInt": "-33" }, { "$numberInt": "-56" }],
+    "timezones": ["UTC-03:00"],
+    "flag": "flags/URY",
+    "name": "Uruguay",
+    "alpha2Code": "UY",
+    "alpha3Code": "URY"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98b0" },
+    "callingCodes": ["58"],
+    "latlng": [{ "$numberInt": "8" }, { "$numberInt": "-66" }],
+    "timezones": ["UTC-04:00"],
+    "flag": "flags/VEN",
+    "name": "Venezuela (Bolivarian Republic of)",
+    "alpha2Code": "VE",
+    "alpha3Code": "VEN"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98b1" },
+    "callingCodes": ["84"],
+    "latlng": [
+      { "$numberDouble": "16.16666666" },
+      { "$numberDouble": "107.83333333" }
+    ],
+    "timezones": ["UTC+07:00"],
+    "flag": "flags/VNM",
+    "name": "Viet Nam",
+    "alpha2Code": "VN",
+    "alpha3Code": "VNM"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98af" },
+    "callingCodes": ["678"],
+    "latlng": [{ "$numberInt": "-16" }, { "$numberInt": "167" }],
+    "timezones": ["UTC+11:00"],
+    "flag": "flags/VUT",
+    "name": "Vanuatu",
+    "alpha2Code": "VU",
+    "alpha3Code": "VUT"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98b5" },
+    "callingCodes": ["260"],
+    "latlng": [{ "$numberInt": "-15" }, { "$numberInt": "30" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/ZMB",
+    "name": "Zambia",
+    "alpha2Code": "ZM",
+    "alpha3Code": "ZMB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98b3" },
+    "callingCodes": ["212"],
+    "latlng": [{ "$numberDouble": "24.5" }, { "$numberInt": "-13" }],
+    "timezones": ["UTC+00:00"],
+    "flag": "flags/ESH",
+    "name": "Western Sahara",
+    "alpha2Code": "EH",
+    "alpha3Code": "ESH"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98ae" },
+    "callingCodes": ["998"],
+    "latlng": [{ "$numberInt": "41" }, { "$numberInt": "64" }],
+    "timezones": ["UTC+05:00"],
+    "flag": "flags/UZB",
+    "name": "Uzbekistan",
+    "alpha2Code": "UZ",
+    "alpha3Code": "UZB"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98b6" },
+    "callingCodes": ["263"],
+    "latlng": [{ "$numberInt": "-20" }, { "$numberInt": "30" }],
+    "timezones": ["UTC+02:00"],
+    "flag": "flags/ZWE",
+    "name": "Zimbabwe",
+    "alpha2Code": "ZW",
+    "alpha3Code": "ZWE"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98ab" },
+    "callingCodes": ["44"],
+    "latlng": [{ "$numberInt": "54" }, { "$numberInt": "-2" }],
+    "timezones": [
+      "UTC-08:00",
+      "UTC-05:00",
+      "UTC-04:00",
+      "UTC-03:00",
+      "UTC-02:00",
+      "UTC",
+      "UTC+01:00",
+      "UTC+02:00",
+      "UTC+06:00"
+    ],
+    "flag": "flags/GBR",
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "alpha2Code": "GB",
+    "alpha3Code": "GBR"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98b2" },
+    "callingCodes": ["681"],
+    "latlng": [{ "$numberDouble": "-13.3" }, { "$numberDouble": "-176.2" }],
+    "timezones": ["UTC+12:00"],
+    "flag": "flags/WLF",
+    "name": "Wallis and Futuna",
+    "alpha2Code": "WF",
+    "alpha3Code": "WLF"
+  },
+  {
+    "_id": { "$oid": "5d441ff23b574544e86e98b4" },
+    "callingCodes": ["967"],
+    "latlng": [{ "$numberInt": "15" }, { "$numberInt": "48" }],
+    "timezones": ["UTC+03:00"],
+    "flag": "flags/YEM",
+    "name": "Yemen",
+    "alpha2Code": "YE",
+    "alpha3Code": "YEM"
+  }
+]
